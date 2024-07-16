@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abinash Satapathy</h1>
 <h3 align="center">A passionate AI/ML Enthusiast</h3>
-<img src="https://iconscout.com/lottie-animation/man-coding-on-laptop-4337847" alt="coder">
+<!-- <img src="https://iconscout.com/lottie-animation/man-coding-on-laptop-4337847" alt="coder"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinashsatapathy1234&label=Profile%20views&color=0e75b6&style=flat" alt="abinashsatapathy1234" /> </p>
 
